@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
-    <div>
-
-    </div>
-  );
+    return (
+        <div>
+            It is an APP to learning TS with Dimych (with tests)
+          /learn react/i
+        </div>
+    );
 }
 
 export default App;
