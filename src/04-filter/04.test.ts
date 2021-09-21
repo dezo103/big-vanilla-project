@@ -36,7 +36,6 @@ test('get only uncompleted tasks', ()=> {
     expect(CompletedTasks[0].id).toBe(1);
     expect(CompletedTasks[1].title).toBe('milk');
 
-    console.log(56)
 })
 
 export{}
