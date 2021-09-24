@@ -3,11 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {User} from "./06-callback/06-callback";
 
 ReactDOM.render(
   <React.StrictMode>
-    <User />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
