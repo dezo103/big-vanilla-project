@@ -25,4 +25,5 @@ test('correct mult', () => {
     const result2 = mult(b,c);
 
     expect(result2).toBe(6);
+    expect(result1).toBe(2);
 })
